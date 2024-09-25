@@ -1,9 +1,9 @@
 @font-face {
-  font-family: "yekan";
+  font-family: yekan;
   src: url("../fonts/DancingScript-Medium.ttf");
 }
 @font-face {
-  font-family: "shows";
+  font-family: shows;
   src: url("../fonts/show/ShadowsIntoLight-Regular.ttf");
 }
 * {
@@ -64,7 +64,7 @@
   text-transform: capitalize;
   padding: 0 10px;
   transition: all linear 300ms;
-  font-family: "shows";
+  font-family: shows;
   font-size: 16px;
   font-weight: 600;
 }
@@ -83,5 +83,5 @@
 }
 
 .child {
-  font-family: "yekan";
+  font-family: yekan;
 }/*# sourceMappingURL=main.css.map */
